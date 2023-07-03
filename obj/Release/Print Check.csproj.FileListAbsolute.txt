@@ -9,3 +9,22 @@ D:\Projects\Print Check\Print Check\obj\Release\Print Check.csproj.GenerateResou
 D:\Projects\Print Check\Print Check\obj\Release\Print Check.csproj.CoreCompileInputs.cache
 D:\Projects\Print Check\Print Check\obj\Release\Print Check.exe
 D:\Projects\Print Check\Print Check\obj\Release\Print Check.pdb
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\bin\Release\Print Check.exe.config
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\bin\Release\Print Check.exe
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\bin\Release\Print Check.pdb
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\bin\Release\OpenXmlPowerTools.dll
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\bin\Release\System.IO.Packaging.dll
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\bin\Release\System.Management.Automation.dll
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Release\Print Check.csproj.AssemblyReference.cache
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Release\Print Check.csproj.SuggestedBindingRedirects.cache
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Release\Print_Check.checkPrint.resources
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Release\Print_Check.load.resources
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Release\Print_Check.Properties.Resources.resources
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Release\Print_Check.Welcome.resources
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Release\Print Check.csproj.GenerateResource.cache
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Release\Print Check.csproj.CoreCompileInputs.cache
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Release\Print Check.csproj.CopyComplete
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Release\Print Check.exe
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Release\Print Check.pdb
