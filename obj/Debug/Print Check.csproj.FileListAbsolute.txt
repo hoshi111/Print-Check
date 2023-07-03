@@ -1,0 +1,31 @@
+D:\Projects\Print Check\Print Check\bin\Debug\Print Check.exe.config
+D:\Projects\Print Check\Print Check\bin\Debug\Print Check.exe
+D:\Projects\Print Check\Print Check\bin\Debug\Print Check.pdb
+D:\Projects\Print Check\Print Check\obj\Debug\Print Check.csproj.AssemblyReference.cache
+D:\Projects\Print Check\Print Check\obj\Debug\Print Check.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Print Check\Print Check\obj\Debug\Print_Check.Properties.Resources.resources
+D:\Projects\Print Check\Print Check\obj\Debug\Print Check.csproj.GenerateResource.cache
+D:\Projects\Print Check\Print Check\obj\Debug\Print Check.csproj.CoreCompileInputs.cache
+D:\Projects\Print Check\Print Check\obj\Debug\Print Check.exe
+D:\Projects\Print Check\Print Check\obj\Debug\Print Check.pdb
+D:\Projects\Print Check\Print Check\obj\Debug\Print_Check.checkPrint.resources
+D:\Projects\Print Check\Print Check\obj\Debug\Print_Check.load.resources
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\bin\Debug\Print Check.exe.config
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\bin\Debug\Print Check.exe
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\bin\Debug\Print Check.pdb
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Debug\Print Check.csproj.AssemblyReference.cache
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Debug\Print Check.csproj.SuggestedBindingRedirects.cache
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Debug\Print_Check.checkPrint.resources
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Debug\Print_Check.load.resources
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Debug\Print_Check.Properties.Resources.resources
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Debug\Print Check.csproj.GenerateResource.cache
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Debug\Print Check.csproj.CoreCompileInputs.cache
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Debug\Print Check.exe
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Debug\Print Check.pdb
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\bin\Debug\System.IO.Packaging.dll
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\bin\Debug\System.Management.Automation.dll
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Debug\Print_Check.Welcome.resources
+C:\Users\villa\OneDrive\Documents\Projects\Print Check\Print Check\obj\Debug\Print Check.csproj.CopyComplete

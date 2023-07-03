@@ -1,0 +1,11 @@
+D:\Projects\Print Check\Print Check\bin\Release\Print Check.exe.config
+D:\Projects\Print Check\Print Check\bin\Release\Print Check.exe
+D:\Projects\Print Check\Print Check\bin\Release\Print Check.pdb
+D:\Projects\Print Check\Print Check\obj\Release\Print Check.csproj.AssemblyReference.cache
+D:\Projects\Print Check\Print Check\obj\Release\Print Check.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Print Check\Print Check\obj\Release\Print_Check.checkPrint.resources
+D:\Projects\Print Check\Print Check\obj\Release\Print_Check.Properties.Resources.resources
+D:\Projects\Print Check\Print Check\obj\Release\Print Check.csproj.GenerateResource.cache
+D:\Projects\Print Check\Print Check\obj\Release\Print Check.csproj.CoreCompileInputs.cache
+D:\Projects\Print Check\Print Check\obj\Release\Print Check.exe
+D:\Projects\Print Check\Print Check\obj\Release\Print Check.pdb

@@ -1,0 +1,1263 @@
+<?xml version="1.0"?>
+<ArrayOfData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Data>
+    <RefNumber>93</RefNumber>
+    <PayeeEntityRefFullName>Reyes Properties</PayeeEntityRefFullName>
+    <TxnDate>12/1/2022 12:00:00 AM</TxnDate>
+    <Amount>1200</Amount>
+  </Data>
+  <Data>
+    <RefNumber>95</RefNumber>
+    <PayeeEntityRefFullName>Express Delivery Service</PayeeEntityRefFullName>
+    <TxnDate>12/5/2022 12:00:00 AM</TxnDate>
+    <Amount>35</Amount>
+  </Data>
+  <Data>
+    <RefNumber>97</RefNumber>
+    <PayeeEntityRefFullName>Patton Hardware Supplies</PayeeEntityRefFullName>
+    <TxnDate>12/10/2022 12:00:00 AM</TxnDate>
+    <Amount>197.59</Amount>
+  </Data>
+  <Data>
+    <RefNumber>99</RefNumber>
+    <PayeeEntityRefFullName>Davis Business Associates</PayeeEntityRefFullName>
+    <TxnDate>12/20/2022 12:00:00 AM</TxnDate>
+    <Amount>2100</Amount>
+  </Data>
+  <Data>
+    <RefNumber>102</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>1/15/2023 12:00:00 AM</TxnDate>
+    <Amount>3495.82</Amount>
+  </Data>
+  <Data>
+    <RefNumber>103</RefNumber>
+    <PayeeEntityRefFullName>Federal Treasury</PayeeEntityRefFullName>
+    <TxnDate>1/15/2023 12:00:00 AM</TxnDate>
+    <Amount>100</Amount>
+  </Data>
+  <Data>
+    <RefNumber>104</RefNumber>
+    <PayeeEntityRefFullName>State Board of Equalization</PayeeEntityRefFullName>
+    <TxnDate>1/15/2023 12:00:00 AM</TxnDate>
+    <Amount>208.09</Amount>
+  </Data>
+  <Data>
+    <RefNumber>105</RefNumber>
+    <PayeeEntityRefFullName>State Fund</PayeeEntityRefFullName>
+    <TxnDate>1/15/2023 12:00:00 AM</TxnDate>
+    <Amount>1214.31</Amount>
+  </Data>
+  <Data>
+    <RefNumber>106</RefNumber>
+    <PayeeEntityRefFullName>State Board of Equalization</PayeeEntityRefFullName>
+    <TxnDate>1/15/2023 12:00:00 AM</TxnDate>
+    <Amount>308.34</Amount>
+  </Data>
+  <Data>
+    <RefNumber>107</RefNumber>
+    <PayeeEntityRefFullName>QuickBooks MasterCard</PayeeEntityRefFullName>
+    <TxnDate>1/15/2023 12:00:00 AM</TxnDate>
+    <Amount>12362.89</Amount>
+  </Data>
+  <Data>
+    <RefNumber>108</RefNumber>
+    <PayeeEntityRefFullName>CalOil Company</PayeeEntityRefFullName>
+    <TxnDate>1/15/2023 12:00:00 AM</TxnDate>
+    <Amount>9521</Amount>
+  </Data>
+  <Data>
+    <RefNumber>111</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>1/31/2023 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>1/31/2023 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>116</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>1/31/2023 12:00:00 AM</TxnDate>
+    <Amount>138</Amount>
+  </Data>
+  <Data>
+    <RefNumber>117</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>1/31/2023 12:00:00 AM</TxnDate>
+    <Amount>218</Amount>
+  </Data>
+  <Data>
+    <RefNumber>118</RefNumber>
+    <PayeeEntityRefFullName>Cal Gas &amp; Electric</PayeeEntityRefFullName>
+    <TxnDate>1/31/2023 12:00:00 AM</TxnDate>
+    <Amount>123.67</Amount>
+  </Data>
+  <Data>
+    <RefNumber>119</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>1/31/2023 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>121</RefNumber>
+    <PayeeEntityRefFullName>Patton Hardware Supplies</PayeeEntityRefFullName>
+    <TxnDate>2/15/2023 12:00:00 AM</TxnDate>
+    <Amount>268.39</Amount>
+  </Data>
+  <Data>
+    <RefNumber>122</RefNumber>
+    <PayeeEntityRefFullName>CalOil Company</PayeeEntityRefFullName>
+    <TxnDate>2/15/2023 12:00:00 AM</TxnDate>
+    <Amount>4050.98</Amount>
+  </Data>
+  <Data>
+    <RefNumber>125</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>2/28/2023 12:00:00 AM</TxnDate>
+    <Amount>142</Amount>
+  </Data>
+  <Data>
+    <RefNumber>126</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>2/28/2023 12:00:00 AM</TxnDate>
+    <Amount>222</Amount>
+  </Data>
+  <Data>
+    <RefNumber>127</RefNumber>
+    <PayeeEntityRefFullName>Cal Gas &amp; Electric</PayeeEntityRefFullName>
+    <TxnDate>2/28/2023 12:00:00 AM</TxnDate>
+    <Amount>125.89</Amount>
+  </Data>
+  <Data>
+    <RefNumber>128</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>2/28/2023 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>129</RefNumber>
+    <PayeeEntityRefFullName>Cal Telephone</PayeeEntityRefFullName>
+    <TxnDate>2/28/2023 12:00:00 AM</TxnDate>
+    <Amount>80</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>2/28/2023 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>130</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>2/28/2023 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>132</RefNumber>
+    <PayeeEntityRefFullName>Vu Contracting</PayeeEntityRefFullName>
+    <TxnDate>3/13/2023 12:00:00 AM</TxnDate>
+    <Amount>7500</Amount>
+  </Data>
+  <Data>
+    <RefNumber>133</RefNumber>
+    <PayeeEntityRefFullName>QuickBooks MasterCard</PayeeEntityRefFullName>
+    <TxnDate>3/15/2023 12:00:00 AM</TxnDate>
+    <Amount>1600</Amount>
+  </Data>
+  <Data>
+    <RefNumber>136</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>3/31/2023 12:00:00 AM</TxnDate>
+    <Amount>127</Amount>
+  </Data>
+  <Data>
+    <RefNumber>137</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>3/31/2023 12:00:00 AM</TxnDate>
+    <Amount>232</Amount>
+  </Data>
+  <Data>
+    <RefNumber>138</RefNumber>
+    <PayeeEntityRefFullName>Bruce's Office Machines</PayeeEntityRefFullName>
+    <TxnDate>3/31/2023 12:00:00 AM</TxnDate>
+    <Amount>450</Amount>
+  </Data>
+  <Data>
+    <RefNumber>139</RefNumber>
+    <PayeeEntityRefFullName>Cal Gas &amp; Electric</PayeeEntityRefFullName>
+    <TxnDate>3/31/2023 12:00:00 AM</TxnDate>
+    <Amount>389.2</Amount>
+  </Data>
+  <Data>
+    <RefNumber>140</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>3/31/2023 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>141</RefNumber>
+    <PayeeEntityRefFullName>Cal Telephone</PayeeEntityRefFullName>
+    <TxnDate>3/31/2023 12:00:00 AM</TxnDate>
+    <Amount>80</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>3/31/2023 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>142</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>3/31/2023 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>147</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>4/30/2023 12:00:00 AM</TxnDate>
+    <Amount>162</Amount>
+  </Data>
+  <Data>
+    <RefNumber>148</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>4/30/2023 12:00:00 AM</TxnDate>
+    <Amount>192</Amount>
+  </Data>
+  <Data>
+    <RefNumber>149</RefNumber>
+    <PayeeEntityRefFullName>Cal Gas &amp; Electric</PayeeEntityRefFullName>
+    <TxnDate>4/30/2023 12:00:00 AM</TxnDate>
+    <Amount>120.93</Amount>
+  </Data>
+  <Data>
+    <RefNumber>150</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>4/30/2023 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>151</RefNumber>
+    <PayeeEntityRefFullName>Cal Telephone</PayeeEntityRefFullName>
+    <TxnDate>4/30/2023 12:00:00 AM</TxnDate>
+    <Amount>80</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>4/30/2023 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>152</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>4/30/2023 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>153</RefNumber>
+    <PayeeEntityRefFullName>Vu Contracting</PayeeEntityRefFullName>
+    <TxnDate>5/1/2023 12:00:00 AM</TxnDate>
+    <Amount>7500</Amount>
+  </Data>
+  <Data>
+    <RefNumber>155</RefNumber>
+    <PayeeEntityRefFullName>Patton Hardware Supplies</PayeeEntityRefFullName>
+    <TxnDate>5/15/2023 12:00:00 AM</TxnDate>
+    <Amount>950.23</Amount>
+  </Data>
+  <Data>
+    <RefNumber>156</RefNumber>
+    <PayeeEntityRefFullName>QuickBooks MasterCard</PayeeEntityRefFullName>
+    <TxnDate>5/15/2023 12:00:00 AM</TxnDate>
+    <Amount>1400</Amount>
+  </Data>
+  <Data>
+    <RefNumber>158</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>5/31/2023 12:00:00 AM</TxnDate>
+    <Amount>143</Amount>
+  </Data>
+  <Data>
+    <RefNumber>159</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>5/31/2023 12:00:00 AM</TxnDate>
+    <Amount>232</Amount>
+  </Data>
+  <Data>
+    <RefNumber>160</RefNumber>
+    <PayeeEntityRefFullName>Cal Gas &amp; Electric</PayeeEntityRefFullName>
+    <TxnDate>5/31/2023 12:00:00 AM</TxnDate>
+    <Amount>128.03</Amount>
+  </Data>
+  <Data>
+    <RefNumber>161</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>5/31/2023 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>162</RefNumber>
+    <PayeeEntityRefFullName>Cal Telephone</PayeeEntityRefFullName>
+    <TxnDate>5/31/2023 12:00:00 AM</TxnDate>
+    <Amount>80</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>5/31/2023 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>163</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>5/31/2023 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>164</RefNumber>
+    <PayeeEntityRefFullName>Vu Contracting</PayeeEntityRefFullName>
+    <TxnDate>6/6/2023 12:00:00 AM</TxnDate>
+    <Amount>5275</Amount>
+  </Data>
+  <Data>
+    <RefNumber>166</RefNumber>
+    <PayeeEntityRefFullName>Sergeant Insurance</PayeeEntityRefFullName>
+    <TxnDate>6/16/2023 12:00:00 AM</TxnDate>
+    <Amount>1786</Amount>
+  </Data>
+  <Data>
+    <RefNumber>167</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>6/30/2023 12:00:00 AM</TxnDate>
+    <Amount>157</Amount>
+  </Data>
+  <Data>
+    <RefNumber>168</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>6/30/2023 12:00:00 AM</TxnDate>
+    <Amount>186</Amount>
+  </Data>
+  <Data>
+    <RefNumber>169</RefNumber>
+    <PayeeEntityRefFullName>Bruce's Office Machines</PayeeEntityRefFullName>
+    <TxnDate>6/30/2023 12:00:00 AM</TxnDate>
+    <Amount>450</Amount>
+  </Data>
+  <Data>
+    <RefNumber>170</RefNumber>
+    <PayeeEntityRefFullName>Cal Gas &amp; Electric</PayeeEntityRefFullName>
+    <TxnDate>6/30/2023 12:00:00 AM</TxnDate>
+    <Amount>135.02</Amount>
+  </Data>
+  <Data>
+    <RefNumber>171</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>6/30/2023 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>172</RefNumber>
+    <PayeeEntityRefFullName>Cal Telephone</PayeeEntityRefFullName>
+    <TxnDate>6/30/2023 12:00:00 AM</TxnDate>
+    <Amount>80</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>6/30/2023 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>173</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>6/30/2023 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>176</RefNumber>
+    <PayeeEntityRefFullName>Patton Hardware Supplies</PayeeEntityRefFullName>
+    <TxnDate>7/23/2023 12:00:00 AM</TxnDate>
+    <Amount>239.29</Amount>
+  </Data>
+  <Data>
+    <RefNumber>177</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>7/31/2023 12:00:00 AM</TxnDate>
+    <Amount>126</Amount>
+  </Data>
+  <Data>
+    <RefNumber>178</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>7/31/2023 12:00:00 AM</TxnDate>
+    <Amount>126</Amount>
+  </Data>
+  <Data>
+    <RefNumber>179</RefNumber>
+    <PayeeEntityRefFullName>Cal Gas &amp; Electric</PayeeEntityRefFullName>
+    <TxnDate>7/31/2023 12:00:00 AM</TxnDate>
+    <Amount>128.03</Amount>
+  </Data>
+  <Data>
+    <RefNumber>180</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>7/31/2023 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>181</RefNumber>
+    <PayeeEntityRefFullName>Cal Telephone</PayeeEntityRefFullName>
+    <TxnDate>7/31/2023 12:00:00 AM</TxnDate>
+    <Amount>80</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>7/31/2023 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>182</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>7/31/2023 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>187</RefNumber>
+    <PayeeEntityRefFullName>City of East Bayshore</PayeeEntityRefFullName>
+    <TxnDate>8/5/2023 12:00:00 AM</TxnDate>
+    <Amount>0</Amount>
+  </Data>
+  <Data>
+    <RefNumber>188</RefNumber>
+    <PayeeEntityRefFullName>City of East Bayshore</PayeeEntityRefFullName>
+    <TxnDate>8/5/2023 12:00:00 AM</TxnDate>
+    <Amount>0</Amount>
+  </Data>
+  <Data>
+    <RefNumber>189</RefNumber>
+    <PayeeEntityRefFullName>Vu Contracting</PayeeEntityRefFullName>
+    <TxnDate>8/5/2023 12:00:00 AM</TxnDate>
+    <Amount>14625</Amount>
+  </Data>
+  <Data>
+    <RefNumber>193</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>8/31/2023 12:00:00 AM</TxnDate>
+    <Amount>136</Amount>
+  </Data>
+  <Data>
+    <RefNumber>194</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>8/31/2023 12:00:00 AM</TxnDate>
+    <Amount>240</Amount>
+  </Data>
+  <Data>
+    <RefNumber>195</RefNumber>
+    <PayeeEntityRefFullName>Cal Gas &amp; Electric</PayeeEntityRefFullName>
+    <TxnDate>8/31/2023 12:00:00 AM</TxnDate>
+    <Amount>118.03</Amount>
+  </Data>
+  <Data>
+    <RefNumber>196</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>8/31/2023 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>197</RefNumber>
+    <PayeeEntityRefFullName>Cal Telephone</PayeeEntityRefFullName>
+    <TxnDate>8/31/2023 12:00:00 AM</TxnDate>
+    <Amount>80</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>8/31/2023 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>198</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>8/31/2023 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>200</RefNumber>
+    <PayeeEntityRefFullName>Vu Contracting</PayeeEntityRefFullName>
+    <TxnDate>9/5/2023 12:00:00 AM</TxnDate>
+    <Amount>7325</Amount>
+  </Data>
+  <Data>
+    <RefNumber>202</RefNumber>
+    <PayeeEntityRefFullName>CalOil Company</PayeeEntityRefFullName>
+    <TxnDate>9/15/2023 12:00:00 AM</TxnDate>
+    <Amount>2340</Amount>
+  </Data>
+  <Data>
+    <RefNumber>204</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>9/30/2023 12:00:00 AM</TxnDate>
+    <Amount>135</Amount>
+  </Data>
+  <Data>
+    <RefNumber>205</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>9/30/2023 12:00:00 AM</TxnDate>
+    <Amount>215</Amount>
+  </Data>
+  <Data>
+    <RefNumber>206</RefNumber>
+    <PayeeEntityRefFullName>Bruce's Office Machines</PayeeEntityRefFullName>
+    <TxnDate>9/30/2023 12:00:00 AM</TxnDate>
+    <Amount>450</Amount>
+  </Data>
+  <Data>
+    <RefNumber>207</RefNumber>
+    <PayeeEntityRefFullName>Cal Gas &amp; Electric</PayeeEntityRefFullName>
+    <TxnDate>9/30/2023 12:00:00 AM</TxnDate>
+    <Amount>112.95</Amount>
+  </Data>
+  <Data>
+    <RefNumber>208</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>9/30/2023 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>209</RefNumber>
+    <PayeeEntityRefFullName>Cal Telephone</PayeeEntityRefFullName>
+    <TxnDate>9/30/2023 12:00:00 AM</TxnDate>
+    <Amount>80</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>9/30/2023 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>210</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>9/30/2023 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>215</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>10/31/2023 12:00:00 AM</TxnDate>
+    <Amount>148</Amount>
+  </Data>
+  <Data>
+    <RefNumber>216</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>10/31/2023 12:00:00 AM</TxnDate>
+    <Amount>231</Amount>
+  </Data>
+  <Data>
+    <RefNumber>217</RefNumber>
+    <PayeeEntityRefFullName>Cal Gas &amp; Electric</PayeeEntityRefFullName>
+    <TxnDate>10/31/2023 12:00:00 AM</TxnDate>
+    <Amount>160.39</Amount>
+  </Data>
+  <Data>
+    <RefNumber>218</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>10/31/2023 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>219</RefNumber>
+    <PayeeEntityRefFullName>Cal Telephone</PayeeEntityRefFullName>
+    <TxnDate>10/31/2023 12:00:00 AM</TxnDate>
+    <Amount>80</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>10/31/2023 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>220</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>10/31/2023 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>222</RefNumber>
+    <PayeeEntityRefFullName>QuickBooks MasterCard</PayeeEntityRefFullName>
+    <TxnDate>11/15/2023 12:00:00 AM</TxnDate>
+    <Amount>4050</Amount>
+  </Data>
+  <Data>
+    <RefNumber>225</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>11/30/2023 12:00:00 AM</TxnDate>
+    <Amount>145</Amount>
+  </Data>
+  <Data>
+    <RefNumber>226</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>11/30/2023 12:00:00 AM</TxnDate>
+    <Amount>238</Amount>
+  </Data>
+  <Data>
+    <RefNumber>227</RefNumber>
+    <PayeeEntityRefFullName>Cal Gas &amp; Electric</PayeeEntityRefFullName>
+    <TxnDate>11/30/2023 12:00:00 AM</TxnDate>
+    <Amount>166.34</Amount>
+  </Data>
+  <Data>
+    <RefNumber>228</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>11/30/2023 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>229</RefNumber>
+    <PayeeEntityRefFullName>Cal Telephone</PayeeEntityRefFullName>
+    <TxnDate>11/30/2023 12:00:00 AM</TxnDate>
+    <Amount>80</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>11/30/2023 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>230</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>11/30/2023 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>231</RefNumber>
+    <PayeeEntityRefFullName>Fay, Maureen Lynn, CPA</PayeeEntityRefFullName>
+    <TxnDate>12/1/2023 12:00:00 AM</TxnDate>
+    <Amount>250</Amount>
+  </Data>
+  <Data>
+    <RefNumber>234</RefNumber>
+    <PayeeEntityRefFullName>Vu Contracting</PayeeEntityRefFullName>
+    <TxnDate>12/30/2023 12:00:00 AM</TxnDate>
+    <Amount>1650</Amount>
+  </Data>
+  <Data>
+    <RefNumber>235</RefNumber>
+    <PayeeEntityRefFullName>Bruce's Office Machines</PayeeEntityRefFullName>
+    <TxnDate>12/30/2023 12:00:00 AM</TxnDate>
+    <Amount>450</Amount>
+  </Data>
+  <Data>
+    <RefNumber>236</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>12/31/2023 12:00:00 AM</TxnDate>
+    <Amount>156</Amount>
+  </Data>
+  <Data>
+    <RefNumber>237</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>12/31/2023 12:00:00 AM</TxnDate>
+    <Amount>218</Amount>
+  </Data>
+  <Data>
+    <RefNumber>238</RefNumber>
+    <PayeeEntityRefFullName>Cal Gas &amp; Electric</PayeeEntityRefFullName>
+    <TxnDate>12/31/2023 12:00:00 AM</TxnDate>
+    <Amount>132.95</Amount>
+  </Data>
+  <Data>
+    <RefNumber>239</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>12/31/2023 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>240</RefNumber>
+    <PayeeEntityRefFullName>Cal Telephone</PayeeEntityRefFullName>
+    <TxnDate>12/31/2023 12:00:00 AM</TxnDate>
+    <Amount>80</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>12/31/2023 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>241</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>12/31/2023 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>244</RefNumber>
+    <PayeeEntityRefFullName>CalOil Company</PayeeEntityRefFullName>
+    <TxnDate>1/15/2024 12:00:00 AM</TxnDate>
+    <Amount>530</Amount>
+  </Data>
+  <Data>
+    <RefNumber>249</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>1/31/2024 12:00:00 AM</TxnDate>
+    <Amount>142</Amount>
+  </Data>
+  <Data>
+    <RefNumber>250</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>1/31/2024 12:00:00 AM</TxnDate>
+    <Amount>236</Amount>
+  </Data>
+  <Data>
+    <RefNumber>251</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>1/31/2024 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>252</RefNumber>
+    <PayeeEntityRefFullName>Cal Telephone</PayeeEntityRefFullName>
+    <TxnDate>1/31/2024 12:00:00 AM</TxnDate>
+    <Amount>80</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>1/31/2024 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>253</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>1/31/2024 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>263</RefNumber>
+    <PayeeEntityRefFullName>QuickBooks MasterCard</PayeeEntityRefFullName>
+    <TxnDate>2/15/2024 12:00:00 AM</TxnDate>
+    <Amount>695</Amount>
+  </Data>
+  <Data>
+    <RefNumber>264</RefNumber>
+    <PayeeEntityRefFullName>CalOil Company</PayeeEntityRefFullName>
+    <TxnDate>2/15/2024 12:00:00 AM</TxnDate>
+    <Amount>1911.3</Amount>
+  </Data>
+  <Data>
+    <RefNumber>268</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>2/28/2024 12:00:00 AM</TxnDate>
+    <Amount>145</Amount>
+  </Data>
+  <Data>
+    <RefNumber>269</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>2/28/2024 12:00:00 AM</TxnDate>
+    <Amount>231</Amount>
+  </Data>
+  <Data>
+    <RefNumber>270</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>2/28/2024 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>2/28/2024 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>271</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>2/28/2024 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>281</RefNumber>
+    <PayeeEntityRefFullName>QuickBooks MasterCard</PayeeEntityRefFullName>
+    <TxnDate>3/15/2024 12:00:00 AM</TxnDate>
+    <Amount>700</Amount>
+  </Data>
+  <Data>
+    <RefNumber>287</RefNumber>
+    <PayeeEntityRefFullName>Bruce's Office Machines</PayeeEntityRefFullName>
+    <TxnDate>3/30/2024 12:00:00 AM</TxnDate>
+    <Amount>450</Amount>
+  </Data>
+  <Data>
+    <RefNumber>288</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>3/31/2024 12:00:00 AM</TxnDate>
+    <Amount>168</Amount>
+  </Data>
+  <Data>
+    <RefNumber>289</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>3/31/2024 12:00:00 AM</TxnDate>
+    <Amount>218</Amount>
+  </Data>
+  <Data>
+    <RefNumber>290</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>3/31/2024 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>3/31/2024 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>291</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>3/31/2024 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>292</RefNumber>
+    <PayeeEntityRefFullName>East Bayshore Tool &amp; Supply</PayeeEntityRefFullName>
+    <TxnDate>4/1/2024 12:00:00 AM</TxnDate>
+    <Amount>445.79</Amount>
+  </Data>
+  <Data>
+    <RefNumber>293</RefNumber>
+    <PayeeEntityRefFullName>Timberloft Lumber</PayeeEntityRefFullName>
+    <TxnDate>4/1/2024 12:00:00 AM</TxnDate>
+    <Amount>1080.73</Amount>
+  </Data>
+  <Data>
+    <RefNumber>303</RefNumber>
+    <PayeeEntityRefFullName>CalOil Company</PayeeEntityRefFullName>
+    <TxnDate>4/15/2024 12:00:00 AM</TxnDate>
+    <Amount>2142</Amount>
+  </Data>
+  <Data>
+    <RefNumber>306</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>4/30/2024 12:00:00 AM</TxnDate>
+    <Amount>132</Amount>
+  </Data>
+  <Data>
+    <RefNumber>307</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>4/30/2024 12:00:00 AM</TxnDate>
+    <Amount>215</Amount>
+  </Data>
+  <Data>
+    <RefNumber>308</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>4/30/2024 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>4/30/2024 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>309</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>4/30/2024 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>317</RefNumber>
+    <PayeeEntityRefFullName>CalOil Company</PayeeEntityRefFullName>
+    <TxnDate>5/15/2024 12:00:00 AM</TxnDate>
+    <Amount>1845.8</Amount>
+  </Data>
+  <Data>
+    <RefNumber>320</RefNumber>
+    <PayeeEntityRefFullName>Patton Hardware Supplies</PayeeEntityRefFullName>
+    <TxnDate>5/18/2024 12:00:00 AM</TxnDate>
+    <Amount>36</Amount>
+  </Data>
+  <Data>
+    <RefNumber>324</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>5/31/2024 12:00:00 AM</TxnDate>
+    <Amount>156</Amount>
+  </Data>
+  <Data>
+    <RefNumber>325</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>5/31/2024 12:00:00 AM</TxnDate>
+    <Amount>214</Amount>
+  </Data>
+  <Data>
+    <RefNumber>326</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>5/31/2024 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>5/31/2024 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>327</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>5/31/2024 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>333</RefNumber>
+    <PayeeEntityRefFullName>Patton Hardware Supplies</PayeeEntityRefFullName>
+    <TxnDate>6/8/2024 12:00:00 AM</TxnDate>
+    <Amount>72</Amount>
+  </Data>
+  <Data>
+    <RefNumber>336</RefNumber>
+    <PayeeEntityRefFullName>CalOil Company</PayeeEntityRefFullName>
+    <TxnDate>6/15/2024 12:00:00 AM</TxnDate>
+    <Amount>9164</Amount>
+  </Data>
+  <Data>
+    <RefNumber>341</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>6/30/2024 12:00:00 AM</TxnDate>
+    <Amount>132</Amount>
+  </Data>
+  <Data>
+    <RefNumber>342</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>6/30/2024 12:00:00 AM</TxnDate>
+    <Amount>246</Amount>
+  </Data>
+  <Data>
+    <RefNumber>343</RefNumber>
+    <PayeeEntityRefFullName>Bruce's Office Machines</PayeeEntityRefFullName>
+    <TxnDate>6/30/2024 12:00:00 AM</TxnDate>
+    <Amount>450</Amount>
+  </Data>
+  <Data>
+    <RefNumber>344</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>6/30/2024 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>6/30/2024 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>345</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>6/30/2024 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>355</RefNumber>
+    <PayeeEntityRefFullName>CalOil Company</PayeeEntityRefFullName>
+    <TxnDate>7/15/2024 12:00:00 AM</TxnDate>
+    <Amount>4674.89</Amount>
+  </Data>
+  <Data>
+    <RefNumber>360</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>7/31/2024 12:00:00 AM</TxnDate>
+    <Amount>138</Amount>
+  </Data>
+  <Data>
+    <RefNumber>361</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>7/31/2024 12:00:00 AM</TxnDate>
+    <Amount>210</Amount>
+  </Data>
+  <Data>
+    <RefNumber>362</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>7/31/2024 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>7/31/2024 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>363</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>7/31/2024 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>378</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>8/31/2024 12:00:00 AM</TxnDate>
+    <Amount>162</Amount>
+  </Data>
+  <Data>
+    <RefNumber>379</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>8/31/2024 12:00:00 AM</TxnDate>
+    <Amount>205</Amount>
+  </Data>
+  <Data>
+    <RefNumber>380</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>8/31/2024 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>8/31/2024 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>381</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>8/31/2024 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>382</RefNumber>
+    <PayeeEntityRefFullName>Hamlin Metal</PayeeEntityRefFullName>
+    <TxnDate>9/3/2024 12:00:00 AM</TxnDate>
+    <Amount>1000</Amount>
+  </Data>
+  <Data>
+    <RefNumber>401</RefNumber>
+    <PayeeEntityRefFullName>Vu Contracting</PayeeEntityRefFullName>
+    <TxnDate>9/30/2024 12:00:00 AM</TxnDate>
+    <Amount>925</Amount>
+  </Data>
+  <Data>
+    <RefNumber>402</RefNumber>
+    <PayeeEntityRefFullName>Bayshore CalOil Service</PayeeEntityRefFullName>
+    <TxnDate>9/30/2024 12:00:00 AM</TxnDate>
+    <Amount>172</Amount>
+  </Data>
+  <Data>
+    <RefNumber>403</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>9/30/2024 12:00:00 AM</TxnDate>
+    <Amount>201</Amount>
+  </Data>
+  <Data>
+    <RefNumber>404</RefNumber>
+    <PayeeEntityRefFullName>Bruce's Office Machines</PayeeEntityRefFullName>
+    <TxnDate>9/30/2024 12:00:00 AM</TxnDate>
+    <Amount>450</Amount>
+  </Data>
+  <Data>
+    <RefNumber>405</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>9/30/2024 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>Bad Check Charges</PayeeEntityRefFullName>
+    <TxnDate>9/30/2024 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>406</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>9/30/2024 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>414</RefNumber>
+    <PayeeEntityRefFullName>City of Middlefield</PayeeEntityRefFullName>
+    <TxnDate>10/13/2024 12:00:00 AM</TxnDate>
+    <Amount>300</Amount>
+  </Data>
+  <Data>
+    <RefNumber>422</RefNumber>
+    <PayeeEntityRefFullName>CalOil Company</PayeeEntityRefFullName>
+    <TxnDate>10/15/2024 12:00:00 AM</TxnDate>
+    <Amount>6534.28</Amount>
+  </Data>
+  <Data>
+    <RefNumber>425</RefNumber>
+    <PayeeEntityRefFullName>Express Delivery Service</PayeeEntityRefFullName>
+    <TxnDate>10/22/2024 12:00:00 AM</TxnDate>
+    <Amount>35</Amount>
+  </Data>
+  <Data>
+    <RefNumber>426</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>10/22/2024 12:00:00 AM</TxnDate>
+    <Amount>244.13</Amount>
+  </Data>
+  <Data>
+    <RefNumber>427</RefNumber>
+    <PayeeEntityRefFullName>Cal Gas &amp; Electric</PayeeEntityRefFullName>
+    <TxnDate>10/25/2024 12:00:00 AM</TxnDate>
+    <Amount>56.87</Amount>
+  </Data>
+  <Data>
+    <RefNumber>428</RefNumber>
+    <PayeeEntityRefFullName>Cal Telephone</PayeeEntityRefFullName>
+    <TxnDate>10/25/2024 12:00:00 AM</TxnDate>
+    <Amount>92.94</Amount>
+  </Data>
+  <Data>
+    <RefNumber>435</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>10/31/2024 12:00:00 AM</TxnDate>
+    <Amount>212</Amount>
+  </Data>
+  <Data>
+    <RefNumber>436</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>10/31/2024 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>437</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>10/31/2024 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>438</RefNumber>
+    <PayeeEntityRefFullName>Kershaw Computer Services</PayeeEntityRefFullName>
+    <TxnDate>11/1/2024 12:00:00 AM</TxnDate>
+    <Amount>0</Amount>
+  </Data>
+  <Data>
+    <RefNumber>439</RefNumber>
+    <PayeeEntityRefFullName>Thomas Kitchen &amp; Bath</PayeeEntityRefFullName>
+    <TxnDate>11/1/2024 12:00:00 AM</TxnDate>
+    <Amount>0</Amount>
+  </Data>
+  <Data>
+    <RefNumber>448</RefNumber>
+    <PayeeEntityRefFullName>Patton Hardware Supplies</PayeeEntityRefFullName>
+    <TxnDate>11/12/2024 12:00:00 AM</TxnDate>
+    <Amount>48.1</Amount>
+  </Data>
+  <Data>
+    <RefNumber>454</RefNumber>
+    <PayeeEntityRefFullName>Sergeant Insurance</PayeeEntityRefFullName>
+    <TxnDate>11/15/2024 12:00:00 AM</TxnDate>
+    <Amount>675</Amount>
+  </Data>
+  <Data>
+    <RefNumber>455</RefNumber>
+    <PayeeEntityRefFullName>Patton Hardware Supplies</PayeeEntityRefFullName>
+    <TxnDate>11/15/2024 12:00:00 AM</TxnDate>
+    <Amount>489.23</Amount>
+  </Data>
+  <Data>
+    <RefNumber>456</RefNumber>
+    <PayeeEntityRefFullName>QuickBooks MasterCard</PayeeEntityRefFullName>
+    <TxnDate>11/15/2024 12:00:00 AM</TxnDate>
+    <Amount>1050</Amount>
+  </Data>
+  <Data>
+    <RefNumber>457</RefNumber>
+    <PayeeEntityRefFullName>CalOil Company</PayeeEntityRefFullName>
+    <TxnDate>11/15/2024 12:00:00 AM</TxnDate>
+    <Amount>48.28</Amount>
+  </Data>
+  <Data>
+    <RefNumber>DRAFT</RefNumber>
+    <PayeeEntityRefFullName>NULL</PayeeEntityRefFullName>
+    <TxnDate>11/16/2024 12:00:00 AM</TxnDate>
+    <Amount>12.5</Amount>
+  </Data>
+  <Data>
+    <RefNumber>460</RefNumber>
+    <PayeeEntityRefFullName>City of Bayshore</PayeeEntityRefFullName>
+    <TxnDate>11/19/2024 12:00:00 AM</TxnDate>
+    <Amount>225</Amount>
+  </Data>
+  <Data>
+    <RefNumber>462</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>11/22/2024 12:00:00 AM</TxnDate>
+    <Amount>244.13</Amount>
+  </Data>
+  <Data>
+    <RefNumber>463</RefNumber>
+    <PayeeEntityRefFullName>Cal Gas &amp; Electric</PayeeEntityRefFullName>
+    <TxnDate>11/25/2024 12:00:00 AM</TxnDate>
+    <Amount>97.53</Amount>
+  </Data>
+  <Data>
+    <RefNumber>471</RefNumber>
+    <PayeeEntityRefFullName>Bayshore Water</PayeeEntityRefFullName>
+    <TxnDate>11/30/2024 12:00:00 AM</TxnDate>
+    <Amount>24</Amount>
+  </Data>
+  <Data>
+    <RefNumber>474</RefNumber>
+    <PayeeEntityRefFullName>Dianne's Auto Shop</PayeeEntityRefFullName>
+    <TxnDate>11/30/2024 12:00:00 AM</TxnDate>
+    <Amount>218</Amount>
+  </Data>
+  <Data>
+    <RefNumber>475</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>11/30/2024 12:00:00 AM</TxnDate>
+    <Amount>2710.9</Amount>
+  </Data>
+  <Data>
+    <RefNumber>476</RefNumber>
+    <PayeeEntityRefFullName>Abercrombie, Kristy:Remodel Bathroom</PayeeEntityRefFullName>
+    <TxnDate>12/1/2024 12:00:00 AM</TxnDate>
+    <Amount>711.15</Amount>
+  </Data>
+  <Data>
+    <RefNumber>478</RefNumber>
+    <PayeeEntityRefFullName>Gregg O. Schneider</PayeeEntityRefFullName>
+    <TxnDate>12/1/2024 12:00:00 AM</TxnDate>
+    <Amount>62</Amount>
+  </Data>
+  <Data>
+    <RefNumber>479</RefNumber>
+    <PayeeEntityRefFullName>CalOil Company</PayeeEntityRefFullName>
+    <TxnDate>12/2/2024 12:00:00 AM</TxnDate>
+    <Amount>135.8</Amount>
+  </Data>
+  <Data>
+    <RefNumber>491</RefNumber>
+    <PayeeEntityRefFullName>City of Middlefield</PayeeEntityRefFullName>
+    <TxnDate>12/8/2024 12:00:00 AM</TxnDate>
+    <Amount>175</Amount>
+  </Data>
+  <Data>
+    <RefNumber>515</RefNumber>
+    <PayeeEntityRefFullName>Vu Contracting</PayeeEntityRefFullName>
+    <TxnDate>12/15/2024 12:00:00 AM</TxnDate>
+    <Amount>1000</Amount>
+  </Data>
+  <Data>
+    <RefNumber>NULL</RefNumber>
+    <PayeeEntityRefFullName>East Bayshore Auto Mall</PayeeEntityRefFullName>
+    <TxnDate>12/15/2024 12:00:00 AM</TxnDate>
+    <Amount>0</Amount>
+  </Data>
+  <Data>
+    <RefNumber>NULL</RefNumber>
+    <PayeeEntityRefFullName>East Bayshore Auto Mall</PayeeEntityRefFullName>
+    <TxnDate>12/15/2024 12:00:00 AM</TxnDate>
+    <Amount>0</Amount>
+  </Data>
+  <Data>
+    <RefNumber>NULL</RefNumber>
+    <PayeeEntityRefFullName>Bank of Anycity</PayeeEntityRefFullName>
+    <TxnDate>12/15/2024 12:00:00 AM</TxnDate>
+    <Amount>0</Amount>
+  </Data>
+</ArrayOfData>
