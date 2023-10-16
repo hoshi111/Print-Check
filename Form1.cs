@@ -42,6 +42,12 @@ namespace Print_Check
         void searchData(string value = null)
         {
             string number;
+            int flag = 0;
+            string name = "";
+            string date = "";
+            string amount = "";
+            string amountText = "";
+
             if (string.IsNullOrEmpty(value))
             {
                 lblName.Text = "******";
@@ -54,12 +60,31 @@ namespace Print_Check
             {
                 foreach (DataRow row in Database.dt.Select($"RefNumber like '%{value}%'"))
                 {
-                    lblName.Text = "***" + row[1].ToString() + "***";
-                    lblDate.Text = Convert.ToDateTime(row[2].ToString()).ToString("MMMM dd, yyyy");
-                    lblAmount.Text = "**" + (Convert.ToDouble(row[3])).ToString("N") + "**";
+                    name = "***" + row[1].ToString() + "***";
+                    date = Convert.ToDateTime(row[2].ToString()).ToString("MMMM dd, yyyy");
+                    amount = "***" + (Convert.ToDouble(row[3])).ToString("N") + "***";
                     number = (Convert.ToDouble(row[3])).ToString("N");
                     number = ConvertToWords(Convert.ToDouble(number).ToString());
-                    lblAmountText.Text = "**" + number + "**";
+                    amountText = "**" + number + "**";
+                    flag = 1;
+                }
+
+                if (flag == 1)
+                {
+                    lblName.Text = name;
+                    lblDate.Text = date;
+                    lblAmount.Text = amount;
+                    lblAmountText.Text = amountText;
+                }
+
+                else
+                {
+                    lblName.Text = "******";
+                    lblDate.Text = "******";
+                    lblAmount.Text = "******";
+                    lblAmountText.Text = "******";
+                    MessageBox.Show("No Data Found!", "Warning", MessageBoxButtons.OK);
+                    flag = 0;
                 }
             }
 
@@ -76,21 +101,21 @@ namespace Print_Check
             TopMost = true;
             load load = new load();
             load.Show();
-            string query = "SELECT RefNumber, PayeeEntityRefFullName, TxnDate, Amount FROM Check";
+            string query = "SELECT BillPaymentCheck.RefNumber, BillPaymentCheck.PayeeEntityRefFullName, BillPaymentCheck.TxnDate, BillPaymentCheck.Amount, BillPaymentCheck.Memo FROM BillPaymentCheck Union SELECT Check.RefNumber, Check.PayeeEntityRefFullName, Check.TxnDate, Check.Amount, Check.Memo FROM Check";
             OdbcConnection con = new OdbcConnection("Dsn=QuickBooks Data;server=QODBC;");
             con.Open();
             OdbcCommand cmd = new OdbcCommand(query, con);
 
             List<Data> data1 = new List<Data>();
             XmlSerializer serializer = new XmlSerializer(typeof(List<Data>));
-            
+
             using (cmd)
             {
                 using (OdbcDataReader reader = cmd.ExecuteReader())
                 {
                     while (reader.Read())
                     {
-                        data1.Add(new Data() { RefNumber = (reader.GetValue(0) != DBNull.Value) ? reader.GetString(0) : "NULL", PayeeEntityRefFullName = (reader.GetValue(1) != DBNull.Value) ? reader.GetString(1) : "NULL", TxnDate = reader.GetDate(2).ToString(), Amount = reader.GetDecimal(3).ToString() }); ;
+                        data1.Add(new Data() { RefNumber = (reader.GetValue(0) != DBNull.Value) ? reader.GetString(0) : "NULL", PayeeEntityRefFullName = (reader.GetValue(1) != DBNull.Value) ? reader.GetString(1) : "NULL", TxnDate = reader.GetDate(2).ToString(), Amount = reader.GetDecimal(3).ToString()}); ;
                     }
                 }
             }
@@ -100,8 +125,9 @@ namespace Print_Check
                 serializer.Serialize(fs, data1);
                 load.Hide();
                 TopMost = false;
-                UseWaitCursor= false;
+                UseWaitCursor = false;
             }
+            con.Close();
         }
 
         //Convert Amount To Text
@@ -298,7 +324,7 @@ namespace Print_Check
         private static String ConvertToWords(String numb)
         {
             String val = "", wholeNo = numb, points = "", andStr = "", pointStr = "";
-            String endStr = "Pesos Only";
+            String endStr = "Only";
             try
             {
                 int decimalPlace = numb.IndexOf(".");
@@ -306,14 +332,22 @@ namespace Print_Check
                 {
                     wholeNo = numb.Substring(0, decimalPlace);
                     points = numb.Substring(decimalPlace + 1);
+
+
                     if (Convert.ToInt32(points) > 0)
                     {
-                        andStr = "Pesos and";// just to separate whole numbers from points/cents    
-                        endStr = "Centavos Only";//Cents    
+                        andStr = " Pesos and";// just to separate whole numbers from points/cents    
+                        endStr = "Only";//Cents    
                         pointStr = ConvertDecimals(points);
                     }
                 }
-                val = String.Format("{0} {1}{2} {3}", ConvertWholeNumber(wholeNo).Trim(), andStr, pointStr, endStr);
+
+                else
+                {
+                    endStr = "Pesos Only";
+                }
+
+                val = String.Format("{0}{1}{2} {3}", ConvertWholeNumber(wholeNo).Trim(), andStr, pointStr, endStr);
             }
             catch { }
             return val;
@@ -321,20 +355,23 @@ namespace Print_Check
 
         private static String ConvertDecimals(String number)
         {
-            String cd = "", digit = "", engOne = "";
-            for (int i = 0; i < number.Length; i++)
-            {
-                digit = number[i].ToString();
-                if (digit.Equals("0"))
-                {
-                    engOne = "Zero";
-                }
-                else
-                {
-                    engOne = ones(digit);
-                }
-                cd += " " + engOne;
-            }
+            String cd = "";
+
+            cd += " " + number + "/100";
+            //for (int i = 0; i < number.Length; i++)
+            //{
+            //    digit = number[i].ToString();
+            //   
+            //    if (digit.Equals("0"))
+            //    {
+            //        engOne = "Zero";
+            //    }
+            //    else
+            //    {
+            //        engOne = ones(digit);
+            //    }
+            //    cd += " " + engOne;
+            //}
             return cd;
         }
 
